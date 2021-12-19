@@ -9,7 +9,7 @@
 Here is some of the stuff I enjoy doing:
 
 - Time series analysis and forecasting
-- Work with data and APIs
+- Work with data
 - Machine learning
 - Data visualization
 
