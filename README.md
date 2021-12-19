@@ -8,9 +8,9 @@
 
 Here is some of the stuff I enjoy doing:
 
-Time series analysis and forecasting
-Work with data and APIs
-Machine learning
-Data visualization
+- Time series analysis and forecasting
+- Work with data and APIs
+- Machine learning
+- Data visualization
 
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!  
